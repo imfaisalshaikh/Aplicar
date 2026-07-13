@@ -30,3 +30,9 @@ Built with a clean, user-friendly interface, ApplyFlow is designed to streamline
 * Advanced Analytics
 
 **ApplyFlow** demonstrates modern cross-platform application development using FlutterFlow, emphasizing scalability, intuitive user experience, and efficient job application management.
+
+### Our Mission
+
+At ApplyFlow, our mission is to empower job seekers with intelligent tools that make career management simple, organized, and effective. We believe finding your next opportunity should be focused on showcasing your skills—not managing spreadsheets or scattered notes. ApplyFlow helps you stay organized, confident, and in control throughout your career journey.
+
+**ApplyFlow** — Organize Every Application. Accelerate Every Opportunity.
